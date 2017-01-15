@@ -14,7 +14,7 @@
 	font-style: normal;
 }
 body {
-	background: url(../images/bg-body.png) repeat left top;
+	background: url(../bg-body.png) repeat left top;
 	min-width: 960px;
 	margin: 0;
 }
@@ -36,18 +36,18 @@ img {
 }
 /*------------------------------ Sprites ------------------------------*/
 #navigation, #navigation li.selected a, #navigation li a:hover, .blog h2, .frame, .heading1, .heading2, #blog .list li {
-	background: url(../images/interface.png) no-repeat;
+	background: url(../interface.png) no-repeat;
 }
 .box, .box > div, .box > div > div {
-	background-image: url(../images/bg-contentbox.png);
+	background-image: url(../bg-contentbox.png);
 	background-repeat: no-repeat;
 }
 .box2, .box2 > div {
-	background-image: url(../images/bg-sidebar.png);
+	background-image: url(../bg-sidebar.png);
 	background-repeat: no-repeat;
 }
 #connect a, .archives > li > span {
-	background: url(../images/icons.png) no-repeat;
+	background: url(../icons.png) no-repeat;
 }
 .more:hover, #connect a:hover {
 	filter:alpha(opacity=80);
@@ -77,7 +77,7 @@ img {
 }
 /*------------------------------ HEADER ------------------------------*/
 #header {
-	background: url(../images/bg-header.png) repeat-x left top;
+	background: url(../bg-header.png) repeat-x left top;
 	height: 140px;
 	text-align: right;
 }
@@ -159,7 +159,7 @@ p a:hover {
 }
 /** adbox **/
 #adbox {
-	background: url(../images/adbox.jpg) no-repeat center top;
+	background: url(../adbox.jpg) no-repeat center top;
 	margin: -45px 0 30px;
 }
 #adbox .area {
@@ -177,7 +177,7 @@ p a:hover {
 }
 #adbox ul li {
 	float: left;
-	background: url(../images/separator.png) no-repeat left top;
+	background: url(../separator.png) no-repeat left top;
 	min-height: 110px;
 	width: 300px;
 	padding: 0 8px 0 12px;
@@ -186,7 +186,7 @@ p a:hover {
 	background: none;
 }
 #adbox ul li > div {
-	background: url(../images/bg-adbox-feature.png) no-repeat center top;
+	background: url(../bg-adbox-feature.png) no-repeat center top;
 	padding: 10px 20px 0;
 }
 #adbox ul li > div h2 {
@@ -341,7 +341,7 @@ p a:hover {
 	margin-bottom: 60px;
 }
 #blog .main {
-	background: url(../images/dash.png) repeat-y right top;
+	background: url(../dash.png) repeat-y right top;
 	min-height: 500px;
 	width: 598px;
 	margin: 0;
@@ -459,13 +459,13 @@ p a:hover {
 }
 /*------------------------------ FOOTER ------------------------------*/
 #footer {
-	background: url(../images/bg-footer.png) repeat left top;
+	background: url(../bg-footer.png) repeat left top;
 	display: inline-block;
 	width: 100%;
 	padding: 30px 0;
 }
 .divider {
-	background: url(../images/divider.png) no-repeat center top;
+	background: url(../divider.png) no-repeat center top;
 	display: block;
 	height: 2px;
 	width: 572px;
